@@ -1,0 +1,23 @@
+.table {
+    width: 100%;
+}
+
+.thead {
+    background-color: #03254c;
+}
+
+.th {
+    width: 33.3333%;
+    padding: 10px 0;
+
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.td {
+    padding: 10px 0;
+}
+
+.tr:nth-child(2n) {
+    background-color: #d0efff;
+}

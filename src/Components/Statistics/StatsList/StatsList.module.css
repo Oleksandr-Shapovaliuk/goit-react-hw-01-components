@@ -1,0 +1,21 @@
+.list {
+    display: flex;
+    justify-content: center;
+}
+
+.item {
+    flex: 1 1 auto;
+    padding: 25px;
+
+    text-align: center;
+    color: #ffffff;
+}
+
+.label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.value {
+    display: block;
+}
